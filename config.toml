@@ -31,7 +31,7 @@ disqusShortname = ""
     olderPosts = ""
     newerPosts = ""
     readMore = ""
-    copyright = "© Copyright 2017 Konniam Chan"
+    copyright = "© 2017 Konniam Chan"
     # Sharing options and author information in posts
     aboutAuthor = "Data Scientist & Photographer"
     tweet = ""

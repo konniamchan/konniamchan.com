@@ -1,14 +1,14 @@
 ---
 title: "Hawaii"
-date: 2017-11-05T16:40:05-08:00
+date: 2013-05-01T00:00:00-08:00
 description: Kingdom of Fire
 ---
 
 # Kilauea
 
-Crown jewel of Hawaii. The still erupting volcano was the highlight of our trip.
+Crown jewel of Hawaii. The still erupting volcano was the highlight of our trip. We started from Kalapana and hiked three hours on uneven volcanic rocks, before reaching the cliff where lava entered the ocean, by around sunset. The sights and sounds were pure bliss and magic.
 
-We started from Kalapana and hiked three hours on uneven volcanic rocks, before reaching the cliff where lava entered the ocean, by around sunset. The sights and sounds were pure bliss and magic.
+_Guide: [Volcano Discovery](https://www.volcanodiscovery.com)_
 
 ![Volcano 1](/img/hawaii/volcano-1.jpg)
 ![Volcano 2](/img/hawaii/volcano-2.jpg)

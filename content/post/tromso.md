@@ -1,6 +1,9 @@
 ---
 title: "Tromsø"
+author: Konniam Chan
 date: 2015-04-01T00:00:01-08:00
+tags:
+    - travel
 description: Winter Wonderland
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: "Stockholm"
+author: Konniam Chan
 date: 2015-04-01T00:00:00-08:00
+tags:
+    - travel
 description: New Nordic
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: "Amsterdam"
+author: Konniam Chan
 date: 2016-10-01T00:00:00-08:00
+tags:
+    - travel
 description: Canal District
 ---
 

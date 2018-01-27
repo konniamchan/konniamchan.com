@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://private-deer-12615.netlify.com/"
+baseurl = "https://www.konniamchan.com/"
 languageCode = "en-us"
 title = "Konniam Chan"
 theme = "hugo-cactus-theme"
@@ -32,7 +32,7 @@ rssLimit = 20
     olderPosts = ""
     newerPosts = ""
     readMore = ""
-    copyright = "© 2017 Konniam Chan"
+    copyright = "© 2018 Konniam Chan"
     # Sharing options and author information in posts
     aboutAuthor = "Data Scientist & Photographer"
     tweet = ""

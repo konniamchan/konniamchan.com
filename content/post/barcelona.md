@@ -4,7 +4,7 @@ author: Konniam Chan
 date: 2017-10-01T00:00:03-08:00
 tags:
     - travel
-description: Gaudí and Jamon
+description: Gaudí y Jamon
 ---
 
 # La Sagrada Familia
